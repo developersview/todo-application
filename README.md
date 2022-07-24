@@ -4,6 +4,11 @@
 
 [To-Do App (View Live Demo)](https://todo-app-pranoy.herokuapp.com/)
 
+```properties
+username : admin
+password : 12345
+```
+
 ---
 ### Home Page
 ![image](https://github.com/developersview/todo-application/blob/master/image/Screenshot%202022-07-24%20190717.png)
